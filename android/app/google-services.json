@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "701978427002",
+    "firebase_url": "https://japuraict-18b80.firebaseio.com",
+    "project_id": "japuraict-18b80",
+    "storage_bucket": "japuraict-18b80.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:701978427002:android:1026f8ec5a6875117505c3",
+        "android_client_info": {
+          "package_name": "com.example.sidebar_animation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "701978427002-949t3mjfhtr65sl0g8ds9jpbd0ak1vtj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7qrY0aiL5mXrEf7Ir6TOn27zUMjDD3pM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "701978427002-949t3mjfhtr65sl0g8ds9jpbd0ak1vtj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
