@@ -1,6 +1,6 @@
 # ICT-family-unofficial-japura
 
-A flutter project for sidebar animation and page links
+
 
 ## Getting Started
 Firabase realtime database is used as backend of this app.
